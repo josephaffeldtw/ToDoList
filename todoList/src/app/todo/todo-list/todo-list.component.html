@@ -1,0 +1,6 @@
+<div *ngFor="let item of (list$ | async)">
+  <h1>{{ item.description }}</h1>
+  <h3>{{ item.date  }}</h3>
+  <h3>{{ item.marked }}</h3>
+</div>
+

@@ -1,0 +1,34 @@
+{
+    "todos": [
+        {
+            "id": 1,
+            "date": "28 de novembro de 2020 09:00:00 UTC-3",
+            "description": "Criar forma de salvar TODO",
+            "marked": false
+        },
+        {
+            "id": 2,
+            "date": "17 de novembro de 2020 09:00:00 UTC-3",
+            "description": "Criar forma de excluir TODO",
+            "marked": false
+        },
+        {
+            "id": 3,
+            "date": "3 de novembro de 2020 09:00:00 UTC-3",
+            "description": "Criar forma de editar TODO",
+            "marked": false
+        },
+        {
+            "id": 4,
+            "date": "10 de novembro de 2020 09:00:00 UTC-3",
+            "description": "Criar forma de retornar TODO",
+            "marked": true
+        },
+        {
+            "id": 5,
+            "date": "1 de novembro de 2020 09:00:00 UTC-3",
+            "description": "Criar Lista de TODO",
+            "marked": true
+        }
+    ]
+}

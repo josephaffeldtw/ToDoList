@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "todolistangular-dcb51": {
+      "hosting": {
+        "todoList": [
+          "todolistangular-dcb51"
+        ]
+      }
+    }
+  }
+}
